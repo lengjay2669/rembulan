@@ -5,4 +5,4 @@ git clone https://github.com/FIRandZAH/rembulan
 
 cd rembulan
 
-python rembulan.py
+python rembulan_v7.py
