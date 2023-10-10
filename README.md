@@ -6,6 +6,6 @@ cd rembulan
 
 python rembulan_v7.py
 
-# run cek cp otomatis
+run cek cp otomatis
 
 python cek.py
